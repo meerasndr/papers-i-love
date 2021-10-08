@@ -13,3 +13,5 @@ A bunch of papers and manuals I want to look up again or read in depth later
 
 ### Resources / Threads
 - [Twitter Thread 1](https://twitter.com/ordepdev/status/1426499455218450435)
+- [Lobsters Thread 1](https://lobste.rs/s/npo38i/what_are_some_good_interesting_papers_cs)
+- [Massive collection](http://diyhpl.us/~bryan/papers2/)
