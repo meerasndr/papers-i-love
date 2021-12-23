@@ -11,6 +11,9 @@ A bunch of papers and manuals I want to look up again or read in depth later
 - [Project Liberty](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf)
 - [DSNP: A Protocol for Personal Identity and Communication on the Web](https://www.colm.net/files/dsnp/dsnp-overview.pdf)
 
+### OS
+- [UNIX Shell Programming the next 50 years](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf)
+
 ### Resources / Threads
 - [Twitter Thread 1](https://twitter.com/ordepdev/status/1426499455218450435)
 - [Lobsters Thread 1](https://lobste.rs/s/npo38i/what_are_some_good_interesting_papers_cs)
